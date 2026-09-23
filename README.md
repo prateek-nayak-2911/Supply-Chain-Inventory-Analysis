@@ -135,11 +135,11 @@ A Power BI dashboard was created to provide an interactive view of the supply ch
 
 ### Dashboard Preview
 
-> 📸 **<img width="1077" height="618" alt="image" src="https://github.com/user-attachments/assets/c3ee1031-ab46-4bb9-88b0-4e032ab72c11" />**
+> **<img width="1041" height="585" alt="Screenshot 2026-09-23 141146" src="https://github.com/user-attachments/assets/295470c1-4be0-46b2-99ce-1caf8dcf5399" />**
 
-```text
-![E-Commerce Sales Dashboard](images/dashboard.png)
-```
+<!-- Replace the line below with your uploaded dashboard image -->
+
+<<img width="1041" height="585" alt="Screenshot 2026-09-23 141146" src="https://github.com/user-attachments/assets/4db714d3-e3d0-42cc-9564-a7e1751ef9ca" />>
 
 ---
 
