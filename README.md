@@ -135,12 +135,14 @@ A Power BI dashboard was created to provide an interactive view of the supply ch
 
 ### Dashboard Preview
 
-> **<img width="1041" height="585" alt="Screenshot 2026-09-23 141146" src="https://github.com/user-attachments/assets/840163ed-0009-464f-9e81-d34ce63a34ec" />**
+**<img width="1041" height="585" alt="Screenshot 2026-09-23 141146" src="https://github.com/user-attachments/assets/e8171a7e-22d5-4112-b00b-8fd47b23e181" />**
+
 
 
 <!-- Replace the line below with your uploaded dashboard image -->
 
-<!-- ![Supply Chain & Inventory Dashboard](dashboard.png) -->
+<img width="1041" height="585" alt="Screenshot 2026-09-23 141146" src="https://github.com/user-attachments/assets/773fada4-2062-4495-8d91-142017ecd37a" />
+
 
 ---
 
