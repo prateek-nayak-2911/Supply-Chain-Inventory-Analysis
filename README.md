@@ -135,7 +135,7 @@ A Power BI dashboard was created to provide an interactive view of the supply ch
 
 ### Dashboard Preview
 
-> **Dashboard screenshot will be added here**
+> **<img width="1041" height="585" alt="image" src="https://github.com/user-attachments/assets/3045f2aa-f70a-4269-ab0c-af510592d6de" />**
 
 <!-- Replace the line below with your uploaded dashboard image -->
 
